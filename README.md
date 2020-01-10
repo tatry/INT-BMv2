@@ -7,6 +7,7 @@ In-Band Network Telemetry for BMv2 P4 switch
 	- [Mininet](http://mininet.org/download/)
 	- [BMv2](https://github.com/p4lang/behavioral-model)
 	- [p4c](https://github.com/p4lang/p4c)
+	- Other packages not installed by default: ethtool, xterm
 
 2.	Compile code:
 	```bash
